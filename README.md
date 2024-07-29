@@ -10,7 +10,7 @@ Structure for The Kenya Bankers Vite-React Frontend App
 -  in src folder create pages, styles and components folder
 -  add images to public folder
 -  kill terminal
--  install tailwind css
+-  install tailwind css (https://tailwindcss.com/docs/guides/vite)
 -  remove unwanted codes, files, and folders
 
 **How to deploy it on hostinger**
