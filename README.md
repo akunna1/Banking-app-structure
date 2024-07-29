@@ -12,6 +12,8 @@ Structure for The Kenya Bankers Vite-React Frontend App
 -  kill terminal
 -  install tailwind css (https://tailwindcss.com/docs/guides/vite)
 -  remove unwanted codes, files, and folders
+-  npm install react-icons
+- npm install react-router-dom
 
 **How to deploy it on hostinger**
 - npm run build
